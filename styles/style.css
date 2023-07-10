@@ -1,0 +1,12 @@
+.text-heading{
+    font-size: 40px;
+    color: #272727;
+}
+nav .cover-img{
+    width: 350px;
+}
+.cover-page{
+    padding: 20px 20px 120px 20px;
+    display: flex;
+    align-items: center;
+}
