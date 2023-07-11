@@ -92,6 +92,7 @@ nav .cover-img {
     font-size: 40px;
     font-weight: 800;
     margin-bottom: 10px;
+    margin-top: 80px;
 }
 
 .insta-pra {
@@ -106,16 +107,16 @@ nav .cover-img {
 }
 
 .container {
-
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 10px;
 }
 
 .box {
     width: 250px;
     height: 300px;
-    padding: 5px;
+    padding: 15px;
     margin-bottom: 50px;
 
 }
@@ -137,12 +138,59 @@ nav .cover-img {
     margin-top: 0%;
 }
 
-.email-tag{
-    width: 350px;
+.email-tag {
+    width: 500px;
     height: 30px;
     margin-right: 10px;
 }
-.sub-btn{
-    padding: 0px 150px 5px 450px;
 
+.sub-btn {
+    padding: 0px 150px 5px 300px;
+}
+
+.latest-cover {
+    background-image: url("/Flower\ Asset/Rectangle 9.png");
+    width: 1100px;
+    height: 350px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 60px;
+}
+
+.latest-token {
+    padding-top: 120px;
+}
+
+footer {
+    width: 1260px;
+    height: 300px;
+    background: #111010;
+    margin-top: 80px;
+
+}
+
+.flower-shop {
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 0%;
+  
+}
+.footer-pra {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 230px 0px 230px;
+}
+.copy-right {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+.footer-text{
+    padding: 30px 80px 30px 80px;
 }
