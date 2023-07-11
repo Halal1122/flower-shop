@@ -69,10 +69,10 @@ nav .cover-img {
 .hot-deal {
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    display: flex; 
-    align-items: center;  
+    display: flex;
+    align-items: center;
     justify-content: center;
-    
+
 }
 
 .pra-deal {
@@ -80,7 +80,41 @@ nav .cover-img {
     width: 500px;
 
 }
-.deal-pic{
+
+.deal-pic {
     width: 200px;
     padding: 30px;
+}
+
+.insta {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.insta-pra {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 30px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    padding: 0px 300px 5px 300px;
+}
+
+.container {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 250px;
+    height: 300px;
+    padding: 5px;
+    margin-bottom: 50px;
+
 }
