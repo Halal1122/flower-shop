@@ -1,8 +1,11 @@
 body {
     font-family: 'Lato', sans-serif;
+    margin: auto;
 }
 
-.header {}
+.header {
+    margin-bottom: 10px;
+}
 
 .text-heading {
     font-size: 40px;
@@ -51,4 +54,33 @@ nav .cover-img {
     background-color: rgba(229, 84, 115, 0.10);
     ;
     background-size: auto;
+}
+
+.deal-write {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.deal-text {
+    text-align: center;
+}
+
+.hot-deal {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex; 
+    align-items: center;  
+    justify-content: center;
+    
+}
+
+.pra-deal {
+    font-size: 15px;
+    width: 500px;
+
+}
+.deal-pic{
+    width: 200px;
+    padding: 30px;
 }
