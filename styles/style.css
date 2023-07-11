@@ -106,15 +106,43 @@ nav .cover-img {
 }
 
 .container {
-    
+
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.box{
+
+.box {
     width: 250px;
     height: 300px;
     padding: 5px;
     margin-bottom: 50px;
+
+}
+
+.latest-deal {
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 0%;
+}
+
+.latest-pra {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 0%;
+}
+
+.email-tag{
+    width: 350px;
+    height: 30px;
+    margin-right: 10px;
+}
+.sub-btn{
+    padding: 0px 150px 5px 450px;
 
 }
